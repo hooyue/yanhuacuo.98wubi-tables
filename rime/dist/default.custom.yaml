@@ -1,0 +1,8 @@
+# default.custom.yaml
+# encoding: utf-8
+# 鼠须管方案列表补丁：启用五笔98繁体（首选），保留明月拼音
+
+patch:
+  schema_list:
+    - schema: wubi98_traditional
+    - schema: luna_pinyin
