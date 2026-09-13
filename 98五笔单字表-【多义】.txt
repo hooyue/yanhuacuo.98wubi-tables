@@ -5859,7 +5859,7 @@ fpfq 垸
 fpfy 垨
 fpg 壹
 fpgb 皼
-fpgc 彀 觳 嗀 榖 殼 瑴 瞉 穀 糓 縠 轂 鷇 嗀 㜌 㝅 㲄 㲉 㷤 㺉 䍍 䐨
+fpgc 穀 彀 觳 嗀 榖 殼 瑴 瞉 糓 縠 轂 鷇 嗀 㜌 㝅 㲄 㲉 㷤 㺉 䍍 䐨
 fpgf 㘾
 fpgg 塇 壼
 fpgh 埞
@@ -23519,7 +23519,7 @@ ujw 䪩
 ujwn 䪩
 ujy 閺
 ujyi 閺
-uk 部
+uk 問
 ukb 部
 ukbh 部
 ukd 問
