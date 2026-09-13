@@ -9080,7 +9080,7 @@ imwn 涔
 imwy 汭 漼
 imy 浿
 imye 浵
-in 沁 泥
+in 沁
 ina 泯
 inac 澱
 inaj 湣
@@ -9146,7 +9146,7 @@ inyf 濢
 inyk 瀥
 inyw 泤
 inyy 沢
-io 渡 淡
+io 淡
 ioa 渡
 ioac 渡
 ioao 㵂
@@ -9272,7 +9272,7 @@ ipwu 㴱
 ipwy 泬 溛 㴶
 ipx 沱
 ipxn 沱
-iq 溜 沒
+iq 沒
 iqa 涽
 iqaj 涽
 iqan 汦
@@ -27961,7 +27961,7 @@ you 亦 㪰
 youf 譵
 youw 譧
 yoy 詸
-yp 亮 誼
+yp 這
 ypd 這
 ypdn 䜢
 ype 毫 䢍
@@ -28314,7 +28314,7 @@ ywiy 㫆
 ywj 亱
 ywjg 亱
 ywjh 斺 䚸
-ywk 褒
+ywk 䛇
 ywke 褒
 ywkg 䛇
 ywkq 說
