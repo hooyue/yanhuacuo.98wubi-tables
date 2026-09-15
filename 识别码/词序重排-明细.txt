@@ -1,0 +1,1308 @@
+# 词序重排明细（2026-09-15）：按 rime-essay 单字有效字频（繁取自身与简体之大者）重排重码行，排除一级简码 25 行与字根行 4 行；共改动 1307 行。格式: 编码<Tab>原序<Tab>新序
+aa	匞 戒 戔	戒 戔 匞
+aaa	㐂 菚	菚 㐂
+ab	茸 芓 邛 卭 艿 匜	茸 艿 邛 芓 匜 卭
+aca	䒪 匥	匥 䒪
+ad	苦 戎 茂 芖	苦 茂 戎 芖
+ade	葫 䒴 萇	萇 葫 䒴
+adh	䒠 芣	芣 䒠
+adm	蕆 項	項 蕆
+adww	匧 莢 㰼	莢 匧 㰼
+ae	功 芼 苚 艻 㣉	功 苚 芼 艻 㣉
+aee	萠 蓞 荕	萠 荕 蓞
+aew	苏 㔱 萸	萸 苏 㔱
+afc	靶 芸 芰 䒧	芸 靶 芰 䒧
+aff	茥 靯 靬 䓁	靬 靯 茥 䓁
+afkk	蘦 虂 䕒	虂 蘦 䕒
+afqy	鞫 靮 韂 䩚 䪌	鞫 韂 靮 䩚 䪌
+aftj	蓍 著	著 蓍
+afug	靽 鞧	鞧 靽
+afvy	靭 靱	靱 靭
+afwc	蕶 藝 䩔	藝 蕶 䩔
+afy	甙 䩧 弍	甙 弍 䩧
+ag	匡 芙	芙 匡
+agmw	苪 黃 㔷	黃 苪 㔷
+agy	匤 弌	弌 匤
+ahdd	匪 菲	菲 匪
+ahkm	賾 頤	頤 賾
+ahnl	監 盬 鹽	鹽 監 盬
+ahnm	賢 贒 頣	賢 頣 贒
+ahnq	覧 覽 鋻 鍳 鑒	覽 鑒 覧 鋻 鍳
+ahnu	竪 豎 䜿 䝂	豎 竪 䜿 䝂
+aivc	蓡 薓	薓 蓡
+aivs	蒅 薻	薻 蒅
+aj	划 草 昔 䒤 㓚	草 昔 划 䒤 㓚
+ajs	菒 菓	菓 菒
+akg	或 戜 堇 㠬	或 堇 戜 㠬
+akgn	惑 懃 戁	惑 戁 懃
+akgw	歎 歏 臡 㰲	歎 臡 歏 㰲
+akkb	鄿 酄 䕤	酄 鄿 䕤
+akkc	敺 毆	毆 敺
+akkj	剾 飌	飌 剾
+al	苗 莗 匣	苗 匣 莗
+alv	蔞 匭	匭 蔞
+am	苖 貢	貢 苖
+amw	黄 芮	芮 黄
+an	世 芑 巨 苢 芯 戉	世 巨 芯 芑 苢 戉
+ao	炗 苂	苂 炗
+aq	匹 菳 芕 兂 旡	匹 旡 兂 菳 芕
+aqaj	朁 蠶 㔆	蠶 朁 㔆
+aqk	苟 茗	茗 苟
+aqky	菟 警	警 菟
+aqo	菊 炁 蔦 䔡 䲨	菊 蔦 炁 䔡 䲨
+aqr	匢 芴	芴 匢
+aqtg	莥 蕕	蕕 莥
+ar	艾 芞 苩 茊 芹 匠	艾 芹 匠 苩 芞 茊
+arg	葟 荴	荴 葟
+as	莆 茜 艼 㭉	茜 莆 艼 㭉
+asf	荰 䓰 蒪	荰 蒪 䓰
+atd	医 䒷 芺 䒨	芺 医 䒷 䒨
+atdh	瞖 莑	莑 瞖
+atdy	瑿 薙	薙 瑿
+atg	苼 䒜 苵	苼 苵 䒜
+atk	㦴 茖 萂	萂 茖 㦴
+atky	莵 萭	萭 莵
+atnh	蒒 蘬 躠	蒒 躠 蘬
+au	苙 菛 莘	莘 菛 苙
+aua	蒫 荓	荓 蒫
+auf	匨 荘 莊	莊 荘 匨
+auj	萻 蕳 蔁	蕳 萻 蔁
+av	切 艽 芀 㓛 茛	切 艽 茛 芀 㓛
+avb	䒵 莭	莭 䒵
+aw	共 芁 戍 䒔	共 戍 芁 䒔
+awb	䢼 芿	芿 䢼
+awf	茌 芢 苻	苻 茌 芢
+awga	菕 葊 蘥	菕 蘥 葊
+awgj	剳 匬 萮 薈	薈 剳 萮 匬
+awgw	匳 薟 蘝	薟 匳 蘝
+awhe	蓚 蓨	蓨 蓚
+awy	萑 芃	芃 萑
+awyk	莟 蒼	蒼 莟
+awyn	芩 恐 菍	恐 芩 菍
+axe	苭 蒃	蒃 苭
+axx	芘 茲	茲 芘
+ay	芳 䓂 弋 芠	芳 弋 芠 䓂
+bb	孕 孖 聑 䦻 耶 阤 陂	耶 孕 陂 孖 聑 阤 䦻
+bbb	孨 聶	聶 孨
+bdmj	聏 陑	陑 聏
+bdww	聗 陜	陜 聗
+be	䎳 毦 阞	毦 阞 䎳
+bfc	耺 阹	阹 耺
+bgh	聇 阷	阷 聇
+bh	耻 阯 屮	屮 阯 耻
+bi	氶 尕 阥	尕 氶 阥
+bl	孟 盁 䧃 陣	孟 陣 盁 䧃
+bn	孔 耴 䎲 孞 恥	孔 恥 耴 䎲 孞
+bp	䢊 辸 迆	迆 辸 䢊
+bq	陶 聊	聊 陶
+bqo	陱 隖 隝 鵈	隝 隖 陱 鵈
+bqq	㚉 陊	陊 㚉
+bqtb	陶 聊	聊 陶
+bs	耵 䧈 䦺 朶 陠	朶 耵 陠 䧈 䦺
+bw	附 除	除 附
+bwgw	険 險	險 険
+bwyc	聆 阾 陰	陰 聆 阾
+bynw	陔 孩	孩 陔
+cc	㸭 㕕 㕛 厸	厸 㸭 㕕 㕛
+ccc	厽 叒	叒 厽
+ccce	參 毲 毿 犙	參 毿 犙 毲
+cccw	欼 歠 㯩	歠 欼 㯩
+ce	䏍 甬 牦 牞	甬 牞 牦 䏍
+cf	圣 牡 㸩	牡 圣 㸩
+cm	牰 岊 貟 㸽	貟 岊 牰 㸽
+cn	予 預	預 予
+cnhc	犌 矝 矡	矝 犌 矡
+cnhe	豫 務 氄 矟 䂊	務 豫 矟 氄 䂊
+cnhj	蟊 蝥 劀 暓 矠 䂈 䖥	蟊 蝥 矠 劀 暓 䂈 䖥
+cnhm	嵍 預 䂎	預 嵍 䂎
+cnhn	矜 巴 愗 㥤	巴 矜 愗 㥤
+cnho	熃 騖 鶔 鶩 鷸 䱯 䳱	鶩 騖 鷸 熃 鶔 䱯 䳱
+coag	騹 驊 䮙	驊 騹 䮙
+cob	駬 䣕 馳 駊	馳 駊 駬 䣕
+cocj	騒 騷	騷 騒
+coco	騳 驫	驫 騳
+cody	駀 駄 駹 䮂	駄 駹 駀 䮂
+cogf	駍 駤	駤 駍
+comk	駉 駧 騆 騧 驨 䮐	駉 騆 驨 騧 駧 䮐
+coqb	駠 騊 䭹	騊 駠 䭹
+cotf	駯 騈	騈 駯
+couj	騚 騿 驓	驓 騿 騚
+coww	験 驗	驗 験
+coyn	馿 騸	騸 馿
+ctg	牲 牪 牟	牟 牲 牪
+cugy	犠 犧	犧 犠
+db	破 耷 矷 䂙 㚎 厄	破 厄 耷 矷 䂙 㚎
+dc	友 夿 厷 厺 㕝	友 厷 夿 厺 㕝
+dcor	礟 礮	礮 礟
+dd	套 㕆 砳 厌 㚐 夶 㹜	套 夶 砳 㕆 厌 㚐 㹜
+de	有 長 胡 夯 砽 髟 劯	有 長 胡 夯 髟 劯 砽
+deb	郁 髢 髶 䯮 髲	郁 髢 髲 髶 䯮
+dede	鬌 鬍	鬍 鬌
+dee	髦 奟 硼	硼 髦 奟
+deg	㚗 砠	砠 㚗
+deqo	磶 鶘 鶦 㕐 䯼 䳑	鶘 鶦 磶 㕐 䯼 䳑
+df	圧 圶 夳 矸 夲 厈	夲 圧 矸 夳 厈 圶
+dfc	夽 砝	砝 夽
+dff	奎 厓 硅	奎 硅 厓
+dfhw	厧 磌	磌 厧
+dgny	瓳 瓺 砙	瓺 瓳 砙
+dgqt	厫 磝 䦋	磝 厫 䦋
+dh	砋 不 丰	不 丰 砋
+dhdj	剨 奡	奡 剨
+dhvi	洯 絜	絜 洯
+dj	百 矵 夰	百 夰 矵
+djev	嬮 饜	饜 嬮
+dl	䦉 硨 厙 㕅	厙 硨 䦉 㕅
+dm	冇 㞭 頁	頁 冇 㞭
+dn	成 乭 䎁 怘 尢	成 尢 怘 乭 䎁
+dq	克 㕋 碒 矽	克 矽 碒 㕋
+dqe	确 勊 勀 兞	确 勀 勊 兞
+dqo	鳫 鴣 䂹 䃖 䲪 䲽	鴣 鳫 䂹 䃖 䲪 䲽
+dr	砶 䂡 斫	斫 砶 䂡
+dss	㚞 碄	碄 㚞
+dssh	歴 礎	礎 歴
+dta	矺 厇	厇 矺
+dtg	䂫 㸴 镻	镻 䂫 㸴
+du	辜 㕇 砬 羍 厗 冭	辜 砬 冭 厗 羍 㕇
+dued	礲 龎	龎 礲
+dwj	春 㫷 剘 砎 蜝	春 剘 砎 蜝 㫷
+dwn	甚 㐞 䦇 惎 㤗	甚 惎 㐞 䦇 㤗
+dwwm	贋 頰	頰 贋
+dwy	㕍 奞 諅 碓 䧸	碓 諅 奞 㕍 䧸
+dx	䂗 㔫 砪	砪 䂗 㔫
+dy	太 䂴 丈 砇	太 丈 砇 䂴
+dynw	奒 硋	硋 奒
+eb	㲌 孚 䏪 肔 䏢 䝛	孚 肔 㲌 䏪 䏢 䝛
+edh	脜 肨 肧	脜 肧 肨
+ee	朋 毝 舀 㲎 肋 肜	朋 肋 舀 肜 毝 㲎
+eee	毳 劦	劦 毳
+eeee	月 朤 脅 脇 膬	月 脅 朤 脇 膬
+eeq	腉 貎	貎 腉
+ef	肚 肝 豻 寽 肘	肝 肚 肘 寽 豻
+ege	助 腈 豚 脿	助 豚 腈 脿
+egnw	歟 與	與 歟
+eh	丯 辵	辵 丯
+ej	㸓 刖	刖 㸓
+ejf	貍 䤚 貋 䏷	貍 貋 䤚 䏷
+en	㐍 劜 肊 甩	甩 劜 肊 㐍
+enhc	腵 貑	貑 腵
+enud	鼷 鼣 鼫 鼳 鼵	鼷 鼫 鼵 鼳 鼣
+enuk	鼯 鼦 鼩 䶅	鼯 鼩 鼦 䶅
+enuv	鼢 鼴	鼴 鼢
+enuw	鼶 鼸	鼸 鼶
+eo	毩 䊆 脒	脒 毩 䊆
+er	胉 貃 肵 䏗	肵 胉 貃 䏗
+erro	燢 鱟 鷽 䮸	鱟 鷽 燢 䮸
+es	采 毢 脯 䝗	采 脯 毢 䝗
+esk	胢 脨	脨 胢
+etg	胜 胮 脌 胅	胜 胮 胅 脌
+etgf	腁 腫	腫 腁
+etk	胳 貉	貉 胳
+etn	䏨 肐	肐 䏨
+etnb	爳 鄬	鄬 爳
+eu	䏠 羘	羘 䏠
+eugo	騰 鰧 黱	騰 黱 鰧
+ev	妥 肗 肍 貇	妥 貇 肍 肗
+evgp	毽 腱	腱 毽
+evy	肒 肕	肕 肒
+ew	臾 肌	肌 臾
+ewgj	腧 毺 膾 貐	膾 腧 貐 毺
+ewy	㲝 脽 䏎	脽 㲝 䏎
+ewyn	肣 腍 臇 㲐	腍 肣 臇 㲐
+eyb	朜 脝	脝 朜
+fa	卋 㦮 𢦏 卉	卉 卋 㦮 𢦏
+faj	㫩 蛓	蛓 㫩
+famw	墴 歕 胾	胾 歕 墴
+fawn	塂 塨	塨 塂
+fb	地 坡 邯 邗 壭 凷	地 坡 邯 邗 凷 壭
+fc	支 云 去	去 支 云
+fce	攰 埇 劫 㲍	劫 攰 埇 㲍
+fcnt	雺 霚	霚 雺
+fdth	壢 靂	靂 壢
+feb	䨗 垺	垺 䨗
+fee	堋 䨜 塪	堋 塪 䨜
+ff	寺 圭 亖 雸 坩	寺 圭 坩 亖 雸
+ffff	土 堼 鞤 㙓	土 鞤 堼 㙓
+fffh	幇 幫	幫 幇
+ffh	埴 卦	卦 埴
+ffn	雩 圬 恚	恚 雩 圬
+ffq	䨌 坃	坃 䨌
+fge	䨝 埥 㙇	埥 䨝 㙇
+fh	直 㱏 址 圵 走 圤	走 直 址 圵 圤 㱏
+fhn	起 趐 惪	起 惪 趐
+fhq	䨘 趛 垷 䙿	垷 趛 䨘 䙿
+fhr	䞟 赾	赾 䞟
+fhw	真 㙈 埧	真 埧 㙈
+fj	刊 刌 亓 龺 井	井 刊 亓 刌 龺
+fjf	埋 坓 㘿 垾	埋 垾 坓 㘿
+fjn	塌 電 䎐 乹	電 塌 乹 䎐
+fjwf	斡 幹	幹 斡
+fke	袁 埍 㔛 劼	袁 劼 埍 㔛
+fkm	霣 塤	塤 霣
+fkuj	蟚 鼜 䶁	鼜 蟚 䶁
+fkuk	嘉 喜 嚭 囍 鼛 䵿 䶀	喜 嘉 囍 嚭 鼛 䵿 䶀
+fkun	壾 憙	憙 壾
+fm	圸 垻	垻 圸
+fmd	雵 坱	坱 雵
+fn	志 㐊 㐋 䨒 圯 圮 圠 忈 亐	志 圮 圯 忈 亐 圠 㐊 㐋 䨒
+fnff	墛 霨	霨 墛
+fnwb	罄 聲	聲 罄
+fpfe	塜 霥	霥 塜
+fpgc	穀 彀 觳 嗀 榖 殼 瑴 瞉 糓 縠 轂 鷇 嗀 㜌 㝅 㲄 㲉 㷤 㺉 䍍 䐨	穀 殼 轂 觳 彀 榖 縠 瑴 鷇 糓 嗀 瞉 嗀 㜌 㝅 㲄 㲉 㷤 㺉 䍍 䐨
+fpgg	塇 壼	壼 塇
+fpgn	懿 亄 愨 㦤	懿 愨 亄 㦤
+fpx	壱 坨	坨 壱
+fq	无 元 圥	元 圥 无
+fqe	埳 埆	埆 埳
+fqi	雿 垗	垗 雿
+fr	坵 圻	圻 坵
+fs	某 埔 圢 耒 雬	某 埔 耒 圢 雬
+fsb	耔 䣂 耚	耔 耚 䣂
+ft	才 耂 坆 攼	才 坆 攼 耂
+fta	䨋 圫	圫 䨋
+ftgf	堹 耊	耊 堹
+ftgo	墲 壎	壎 墲
+ftn	垖 圪	圪 垖
+fu	雴 垃 垟 垶	垟 垃 垶 雴
+fufi	漐 縶	縶 漐
+fufo	騺 鷙 䲀	鷙 騺 䲀
+fusf	墫 壿	壿 墫
+fwfe	勎 勢	勢 勎
+fwfo	熱 燅 驇 鵱	熱 鵱 燅 驇
+fwy	霍 堆 䧲	堆 霍 䧲
+fwyo	靍 鸖 䴇	鸖 靍 䴇
+fy	坊 霅 圡 雱 雯	坊 雯 雱 圡 霅
+ga	玒 弄	弄 玒
+gamy	璊 貮	貮 璊
+gan	䍾 玴	玴 䍾
+gb	珥 㺭 邞 玻	玻 珥 邞 㺭
+gdgj	蝅 蠺	蠺 蝅
+gf	于 玵 玕	于 玕 玵
+gg	玨 玞 㚘	玞 玨 㚘
+gh	下 正 㠪 㺺 丅 㺪	下 正 丅 㠪 㺺 㺪
+ghn	丐 乤 忑	丐 忑 乤
+gj	㺫 丌	丌 㺫
+gk	吾 玔 卅	吾 卅 玔
+gl	玾 卌	卌 玾
+gm	丗 責 珼	責 丗 珼
+gmf	再 珃 専	再 専 珃
+gn	㐏 珝 㝳 玌 玘 戸 忢 丂	戸 玘 忢 丂 珝 玌 㐏 㝳
+gq	万 琻 歹 兀 兀	万 兀 歹 琻 兀
+gqi	珧 珎	珎 珧
+gqtb	聱 珋 瑤	瑤 聱 珋
+gqtd	獒 殀 殠	獒 殠 殀
+gqtm	嶅 贅 䫨	贅 嶅 䫨
+gqto	熬 驁 鰲 鷔	熬 鰲 驁 鷔
+gqtr	摮 殤	殤 摮
+gs	末 玎 亍	末 亍 玎
+gtb	㻑 琇	琇 㻑
+gtfm	璳 瓚	瓚 璳
+gx	互 毒	毒 互
+gy	玉 琂 玊 玟	玉 玟 琂 玊
+hb	眲 齒	齒 眲
+hd	䀦 狊	狊 䀦
+hdhn	翡 悲 㐟 䨽	悲 翡 㐟 䨽
+hf	盰 眛	眛 盰
+hggh	鬥 鬧	鬧 鬥
+hggr	鬬 鬭	鬭 鬬
+hgm	歵 瞔	瞔 歵
+hh	步 䀠 卡 歨	卡 步 歨 䀠
+hhh	歮 瞐	瞐 歮
+hit	眇 歩	歩 眇
+hj	㫖 卓	卓 㫖
+hln	卣 慮	慮 卣
+hlow	鹸 鹻 鹼 䴚	鹼 鹸 鹻 䴚
+hlr	卤 䁪	䁪 卤
+hqk	眗 眳	眳 眗
+hqo	瞗 鳪 䁩	鳪 瞗 䁩
+hr	虗 盺	盺 虗
+hug	瞤 眫	眫 瞤
+hw	具 虎 仧 凣	虎 具 凣 仧
+hwgj	睮 瞺	瞺 睮
+hwy	雐 睢 䧳	睢 雐 䧳
+iaa	㳦 淺	淺 㳦
+iakg	淢 漌 漢	漢 淢 漌
+ian	洰 泄 泧	泄 洰 泧
+ib	波 池 洱 汓 凼 氾	波 池 氾 凼 洱 汓
+id	尖 沯 沽 沰 汏 汱	尖 沽 汏 汱 沰 沯
+idfe	浱 漘	漘 浱
+idff	溽 涯	涯 溽
+ie	肖 㳫 㳉 氻	肖 氻 㳫 㳉
+if	汗 坔 泔 汢 汁 沬	汗 汁 泔 沬 汢 坔
+ifpc	濲 瀔 瀫	瀫 濲 瀔
+ifs	洡 湈	湈 洡
+ihq	覍 涀	涀 覍
+ij	沓 汩 汨	沓 汨 汩
+ijf	涅 浬 涆 単	涅 単 涆 浬
+ijg	泹 淵	淵 泹
+ijs	巣 淉	淉 巣
+ik	呇 汌	汌 呇
+il	泴 畄 畓 泗 沺 㳑 㳌	泗 畄 沺 泴 畓 㳑 㳌
+ilge	溷 渨 澴	溷 澴 渨
+imgt	溦 澂	澂 溦
+iooi	濴 瀠	瀠 濴
+iouf	澲 濧	濧 澲
+ipkj	劏 嘗	嘗 劏
+ipwf	浫 漥 潌	漥 浫 潌
+iq	淦 汐	汐 淦
+iqi	洮 沵	沵 洮
+iqk	泃 洺	洺 泃
+iqo	淗 溩 漁 䳤	漁 淗 溩 䳤
+iqtb	泖 淘	淘 泖
+iqy	渹 汋 汣	汋 渹 汣
+ir	汽 泊 㳋 沂 㲼	泊 汽 沂 㳋 㲼
+irm	㴈 峾	峾 㴈
+is	浦 洒 汀 沐	浦 沐 汀 洒
+isf	湮 溥	溥 湮
+itd	活 獘 沃	活 沃 獘
+itf	汘 汻 洙	洙 汻 汘
+itg	洚 泩 汼 泆	泩 洚 汼 泆
+itj	暼 㴡 浰 蟞	暼 浰 蟞 㴡
+itu	泈 洀	洀 泈
+iua	溠 洴	洴 溠
+iugi	漾 漛 潫	漾 潫 漛
+iuj	漳 湆 澗	澗 漳 湆
+iw	㲹 氼 汃 汄	氼 汄 汃 㲹
+iwe	脊 洕 沴	脊 沴 洕
+iwg	洤 鼡	鼡 洤
+iwga	瀹 淪 渰 㵸	淪 瀹 渰 㵸
+iwgt	漵 瀲	瀲 漵
+iwy	淮 雀 汎	汎 雀 淮
+iwyk	浛 滄	滄 浛
+iwyn	汵 淰	淰 汵
+ixe	泑 湪	湪 泑
+iy	汸 汶	汶 汸
+iyj	湻 濟	濟 湻
+iyke	滖 瀼	瀼 滖
+iynd	涙 淚	淚 涙
+iyth	漩 洲	洲 漩
+jag	䖱 畢	畢 䖱
+jamy	暪 蟎	蟎 暪
+jan	昛 蚷	蚷 昛
+jb	㫗 虸 虵 蚾	虵 虸 蚾 㫗
+jd	蛄 䖨 旲	蛄 旲 䖨
+jday	曞 蠣	蠣 曞
+jdj	蛨 昦	昦 蛨
+je	明 冐 蚏 蚝 㫑	明 蚝 冐 蚏 㫑
+jf	里 圼 蚶 旰 旪 虷 旱 昧 䖞	里 旱 昧 蚶 旰 旪 虷 圼 䖞
+jff	蛙 晆 㫭 時	時 蛙 晆 㫭
+jg	旦 旺 蚟 蚨 㫙	旺 旦 蚨 蚟 㫙
+jght	尟 晸	晸 尟
+jgmw	昞 昺 蛃	昺 昞 蛃
+jgx	鼂 蝳	蝳 鼂
+jh	冒 㫔 申 虲	冒 申 㫔 虲
+jhll	曥 蠦	蠦 曥
+jhq	㒻 晛 蜆	蜆 晛 㒻
+jjj	晶 晿 䗉 蟲	蟲 晶 晿 䗉
+jjje	曑 曟	曟 曑
+jjjg	曐 曡	曡 曐
+jjqn	蝎 暍	暍 蝎
+jkkf	暺 蟬	蟬 暺
+jlff	曎 蠌 䘃	蠌 曎 䘃
+jnh	蝞 虯	虯 蝞
+jnhc	暇 蝦	蝦 暇
+jnij	曯 蠾	蠾 曯
+jnx	昵 蚭	蚭 昵
+jo	炅 㫧 炚	炅 炚 㫧
+jpl	暉 暈	暈 暉
+js	果 虰 杲 晡 蚞 蜅	果 杲 晡 虰 蚞 蜅
+jsj	蝀 曋 蟫	蝀 蟫 曋
+jt	昨 星	星 昨
+jtg	星 甠 﨡 昳 蛈	星 昳 蛈 甠 﨡
+jthf	蚱 昨 曍	昨 蚱 曍
+jtnh	蜁 螄	螄 蜁
+jtu	㫡 昸	昸 㫡
+jua	暛 蛢	蛢 暛
+jv	旯 妟 旫 虭 蛝	旯 妟 虭 旫 蛝
+jwf	䖫 蚹	蚹 䖫
+jwv	昐 蚡	蚡 昐
+jwyc	蛉 昤 蠄	蛉 蠄 昤
+jwyk	晗 蛿 螥	晗 螥 蛿
+jx	㫐 蠅	蠅 㫐
+jxxw	歞 蟣	蟣 歞
+jy	昘 昉 蚄 旻 蚊 旼	蚊 旻 昉 昘 旼 蚄
+jyx	昡 蚿	蚿 昡
+kb	咠 吇 咡 叩 吔	叩 吔 吇 咡 咠
+kd	咕 㕦 吠	咕 吠 㕦
+kdff	喹 啀 嗕	喹 嗕 啀
+kdh	㕩 吥	吥 㕩
+ke	另 肙 㕰 叻	另 叻 肙 㕰
+kf	叶 味 吐 咁 吋	咁 味 吐 吋 叶
+kfc	吱 呍 呿	吱 呿 呍
+kg	呈 㕵 㕶 呋	呈 呋 㕵 㕶
+kga	咞 哢	哢 咞
+kh	中 足 ⻊ 卟	中 足 卟 ⻊
+khce	踊 踴	踴 踊
+khdk	踎 踦	踦 踎
+khff	跬 跱 踛 躊	跬 躊 跱 踛
+khgf	哶 趶 跮	哶 跮 趶
+khgp	遣 遺	遺 遣
+khh	趾 咔 䟔	咔 趾 䟔
+khie	踃 蹐 䠌	蹐 踃 䠌
+khqo	踘 蹨	蹨 踘
+khsk	跒 踈	踈 跒
+khtg	跌 跭 躌	跌 躌 跭
+khth	蹝 蹤	蹤 蹝
+khtk	踟 路 蹻	路 踟 蹻
+khto	踿 鷺	鷺 踿
+khub	踡 躑	躑 踡
+khwk	跲 蹌	蹌 跲
+khwn	趻 踗 蹹	蹹 趻 踗
+kjf	哩 㖏 哻	哩 哻 㖏
+kkdk	器 嚻 囂	器 囂 嚻
+kl	呬 呷 唓	呷 呬 唓
+kme	嗗 勛	勛 嗗
+knd	啹 吳	吳 啹
+kp	喧 喀	喀 喧
+kqe	啗 唃	唃 啗
+kqj	咰 別	別 咰
+kqo	嗚 鳴	鳴 嗚
+kr	听 史 㕷	史 听 㕷
+ks	呆 叮 哂 哺 㕲	呆 叮 哺 哂 㕲
+ksj	㖦 嘾	嘾 㖦
+kt	呚 咊	咊 呚
+kta	呏 吒	吒 呏
+ktf	吀 吘 咮	咮 吘 吀
+ktg	吽 哖 呹	哖 吽 呹
+ktj	㗍 唎	唎 㗍
+ku	㕸 咩 㖕	咩 㕸 㖕
+kv	叨 㕤 叧 哏	叨 哏 叧 㕤
+kwyk	唅 嗆	嗆 唅
+kwyn	吟 唸 㗹	唸 吟 㗹
+ky	唁 㕫 呅	唁 呅 㕫
+lccc	畷 罬 輟	輟 畷 罬
+ld	因 固 罟 軲 畎 軑	因 固 罟 畎 軲 軑
+le	男 胃 㘞 軞 㽖 䡃	男 胃 軞 㘞 㽖 䡃
+lfc	囩 転 䡋	転 囩 䡋
+lff	畦 罣 畤	畦 畤 罣
+lfke	園 瞏 轅	園 轅 瞏
+lfok	黠 點 黬 䵱	點 黠 黬 䵱
+lfon	黔 黗 黤 黮 䵝	黔 黮 黤 黗 䵝
+lfoq	黟 黕 黖	黟 黖 黕
+lfuf	圉 睪	睪 圉
+lg	囯 軖 畉 䡍	囯 畉 軖 䡍
+lge	畏 圊 輤 圂	畏 圊 圂 輤
+lgjf	團 轉	轉 團
+lhng	囗 四 皿 罒	四 囗 皿 罒
+ljfp	廽 逥	逥 廽
+lk	回 軎 甽 䡅	回 甽 軎 䡅
+lke	㘣 罥	罥 㘣
+lkp	廻 迴	迴 廻
+lll	畾 轟	轟 畾
+llld	奰 礨	礨 奰
+llll	田 轠 〇	田 〇 轠
+lllo	䴑 鸓 䴎	鸓 䴑 䴎
+lm	軸 軕 買	買 軸 軕
+ln	思 囙 翈 軋	思 軋 囙 翈
+lna	罠 䡑 囻	囻 罠 䡑
+lqn	䍖 軳	軳 䍖
+lqy	輷 畂	畂 輷
+lrcy	畖 罛 軱	罛 軱 畖
+ls	困 町 圃 甼 䍒 輔	困 輔 町 圃 甼 䍒
+lt	囷 畋	畋 囷
+ltg	㽚 軼	軼 㽚
+ltgf	畽 輧	輧 畽
+ltk	略 畧 輅	略 輅 畧
+ltx	䍙 畮	畮 䍙
+lur	図 較	較 図
+lv	囡 婁 㚻 軌	軌 婁 囡 㚻
+lwe	畛 軫	軫 畛
+lwga	圇 輪	輪 圇
+lwy	圀 䍜 罖 軓	罖 圀 軓 䍜
+ly	圁 詈	詈 圁
+lyg	罜 軴	軴 罜
+lyj	䍤 罰	罰 䍤
+lyw	㽘 䡉 囥	囥 㽘 䡉
+ma	曲 㞬 屸 冊 戝	曲 冊 戝 屸 㞬
+maj	㟙 刪	刪 㟙
+mb	㕀 㞨 邖 郥 貤 㞧 屷 岥 貱	岥 貤 郥 邖 貱 㕀 㞨 㞧 屷
+mc	岜 㽕 禸	岜 禸 㽕
+mcce	嵾 贂 㠁	贂 嵾 㠁
+md	央 岩 岵 屵	岩 央 岵 屵
+mde	峟 賄 賬	賬 賄 峟
+mdhl	豓 豔	豔 豓
+mdm	崸 頔	頔 崸
+mdmj	剬 峏 耑	峏 剬 耑
+mdui	嶚 嶛	嶛 嶚
+me	骨 胄 冑 岄 㲘 屴	骨 胄 冑 岄 屴 㲘
+meb	㟊 骳	骳 㟊
+mepy	髉 髖	髖 髉
+meua	骿 髊	髊 骿
+mev	㟎 骩	骩 㟎
+mf	冉 冃 冄 亗 屽 曱	冉 冄 屽 曱 亗 冃
+mfq	岏 貦	貦 岏
+mhde	帪 帳	帳 帪
+mhk	岾 貼	貼 岾
+mhwy	帷 帆	帆 帷
+mj	㞱 則	則 㞱
+mjxx	崐 崑	崑 崐
+mkq	岲 貺	貺 岲
+mlr	嶃 嶄	嶄 嶃
+mlv	㟺 嶁	嶁 㟺
+mm	峀 岫 屾 岀 賏	岫 屾 岀 賏 峀
+mn	㐕 屺 乢 囘	囘 屺 乢 㐕
+mnr	㠄 嶍	嶍 㠄
+mp	迪 廸 䢙 辿 㞫	迪 廸 辿 䢙 㞫
+mqdb	峗 峞	峞 峗
+mqdy	嶦 贍	贍 嶦
+mqo	嶌 嵨 嶋 鵙	嶋 嶌 嵨 鵙
+mr	岴 岶 岓 罓	岶 岴 岓 罓
+mrbt	嵏 嵕	嵕 嵏
+mrc	岅 販	販 岅
+msj	崬 崠 贉	崬 贉 崠
+mtd	㞺 岆	岆 㞺
+mtdh	峰 峯	峯 峰
+mthf	岝 岞 䝫	岞 岝 䝫
+mtk	峉 峈 賂	賂 峈 峉
+mtry	峨 峩	峩 峨
+mtwh	嵷 嵸	嵸 嵷
+mu	岦 㟄 峷	岦 峷 㟄
+mued	巃 巄 贚	巃 贚 巄
+mulj	嶒 贈	贈 嶒
+mur	峧 賋	賋 峧
+muvw	嵰 賺	賺 嵰
+mvy	岃 屻	屻 岃
+mwga	崘 崙	崙 崘
+mwgk	峆 峇	峇 峆
+mwyk	嵢 巂 賶 㟏 㟔	巂 賶 嵢 㟏 㟔
+mwyn	岑 岒 嶲	岑 嶲 岒
+myj	峕 刐	刐 峕
+mynw	峐 賅	賅 峐
+mywf	崒 崪 賥	賥 崒 崪
+na	民 羾 羿	民 羿 羾
+naj	惜 昬 刡 愺	惜 愺 昬 刡
+nakg	惐 慬	慬 惐
+nan	怇 怈 怴 䎀	怇 怴 怈 䎀
+nans	屟 惵	惵 屟
+nb	㞌 邔 䣁 忚 怶 翍	忚 怶 翍 邔 㞌 䣁
+nbbb	孱 懾	懾 孱
+nde	㤢 悵	悵 㤢
+ne	尾 毣 忇	尾 忇 毣
+neee	恊 愶	愶 恊
+nf	㤌 忓 屚 卂 忖 怽	忖 忓 卂 屚 怽 㤌
+nfc	厾 怯 忮 忶 翄	怯 厾 忮 翄 忶
+ng	刁 䍿 忹 丮	刁 丮 忹 䍿
+nghg	卐 恆	恆 卐
+nh	眉 ⺪ 疋 丩	眉 疋 丩 ⺪
+nhc	叏 収	収 叏
+nie	悄 屑	屑 悄
+nilj	劚 屬	屬 劚
+nkg	悜 韋	韋 悜
+nkge	韒 韔 韛 韜	韜 韔 韛 韒
+nkgf	韚 韝 韟 䪙	韝 韟 韚 䪙
+nkgg	韠 韡 䪒	韡 韠 䪒
+nkgl	韗 韞 䪛	韞 韗 䪛
+nkgs	韎 韖 韘 䪔	韎 韘 韖 䪔
+nkh	忡 翀 䎌	翀 忡 䎌
+nkue	襞 臂	臂 襞
+nkuh	幦 躄	躄 幦
+nkuo	糪 鷿 鸊	鸊 糪 鷿
+nl	乪 屇 怬	屇 乪 怬
+nlge	愄 懁 㥵	懁 愄 㥵
+nlp	慩 翴	翴 慩
+nn	忋 忌 乜 㤈	乜 忌 忋 㤈
+nngn	巳 己	己 巳
+nnll	乙 乚 乛 ⺄ 𠃌 乀 乁	乙 乛 乀 乁 乚 ⺄ 𠃌
+nqo	䲩 翵 鳲 㥌	鳲 翵 䲩 㥌
+nqq	㞔 恀	恀 㞔
+nrbt	惾 翪	翪 惾
+nss	惏 慄	慄 惏
+nu	㞐 翌 翋 㥃 屖	翌 翋 屖 㞐 㥃
+nulj	憎 層	層 憎
+nv	恨 尻 妀 忉	恨 尻 忉 妀
+nvf	忰 翆	翆 忰
+nwe	㞕 翏	翏 㞕
+nwyn	忴 惗 懏	惗 忴 懏
+nxj	怫 㞓 恉	怫 恉 㞓
+ny	尺 乄 㣺 㤃 忟	尺 乄 忟 㣺 㤃
+nyle	懐 懷	懷 懐
+nywf	悴 翠	翠 悴
+oa	灴 䉺 㡲 灷	灴 灷 䉺 㡲
+oaj	庴 焟	焟 庴
+oaw	烡 烘 粠	烘 粠 烡
+ob	籽 邩 灺	籽 灺 邩
+oday	爄 糲	糲 爄
+ode	糊 煳 烠 㷃 粻	糊 煳 烠 粻 㷃
+odmj	粫 糥	糥 粫
+odwn	煁 糂 㥷	糂 煁 㥷
+oe	㶲 粍	粍 㶲
+oeb	烰 粰	粰 烰
+of	灶 粓 㶰 籵 㶥 籿	灶 粓 籿 籵 㶰 㶥
+ofcl	廅 熆	熆 廅
+off	烓 庤	庤 烓
+ohk	粘 店 炶	店 粘 炶
+ohll	廬 爐	爐 廬
+ojf	焊 㢆 粴	焊 粴 㢆
+ojg	㡺 炟	炟 㡺
+ol	畨 畑 炠 庘 庫	庫 畑 畨 庘 炠
+olaw	廙 熼 糞	糞 熼 廙
+omgk	烔 粡	粡 烔
+on	㐘 応	応 㐘
+onhg	炄 粈	粈 炄
+oope	勞 膋 褮	勞 褮 膋
+oopf	塋 煢	煢 塋
+oopi	滎 禜 縈	縈 滎 禜
+oopo	熒 鶯	鶯 熒
+oopq	覮 鎣	鎣 覮
+oopy	瑩 甇 謍	瑩 謍 甇
+oqgb	粼 鄰	鄰 粼
+oqo	熓 粷 䲴	粷 熓 䲴
+or	粕 炘 䉼 庍	粕 炘 庍 䉼
+orc	炍 粄	粄 炍
+ortf	庳 焷 粺	粺 庳 焷
+ortj	螷 蠯	蠯 螷
+os	床 粞 庯 庁 炑 烳 䊇	床 粞 庁 庯 炑 烳 䊇
+osf	㷑 煙 煿 糐	煙 煿 糐 㷑
+ossj	劘 黁 䵉	黁 劘 䵉
+otgo	廡 燻 㷻	燻 廡 㷻
+otn	㢂 籺	籺 㢂
+ou	粒 㡴 烊 庠	粒 庠 烊 㡴
+oued	爖 龐	龐 爖
+ouf	料 䊋 炓 丵 業	業 料 炓 丵 䊋
+oufb	凿 鄴	鄴 凿
+oug	䉽 菐	菐 䉽
+ougy	燨 爔	爔 燨
+ov	㶢 籹 㡾 灱	籹 灱 㶢 㡾
+ow	庂 籶	籶 庂
+owc	炂 炈	炈 炂
+owgj	廥 燴 糩 㢏	燴 糩 廥 㢏
+owy	㢈 焳 䊒	焳 㢈 䊒
+owyk	焓 熗	熗 焓
+oxxf	麝 塵 䴣	塵 麝 䴣
+oxxj	麘 麞 麡	麞 麘 麡
+oxxk	麍 麏 麐 麔 麙 麢 䴥	麐 麍 麏 麔 麢 麙 䴥
+oxxx	麀 麤	麤 麀
+oy	㢇 炆	炆 㢇
+oyv	㢃 烺	烺 㢃
+pd	宕 㝒 宊	宕 宊 㝒
+peqo	冩 寫	寫 冩
+pfim	崈 賨	賨 崈
+pgjn	寭 翧	翧 寭
+ps	宁 宋	宋 宁
+pudj	袹 袻 襫	袻 袹 襫
+pudw	裌 褀 䙠	褀 裌 䙠
+puf	衦 寐	寐 衦
+pufj	襦 褚	褚 襦
+putf	衽 袾 褈	衽 褈 袾
+puts	寱 裄	裄 寱
+putt	裑 複	複 裑
+puue	褙 襉 䙛	襉 褙 䙛
+puuq	裞 襯	襯 裞
+puvk	裙 袑 袽	裙 袽 袑
+puwc	衳 袊 襏	袊 襏 衳
+puwj	衸 褕 襘	襘 褕 衸
+puwk	袷 裕	裕 袷
+puws	褓 襍	襍 褓
+puxe	袎 褖	褖 袎
+pw	冗 宂 穴 㓁	穴 冗 宂 㓁
+pwfw	窴 窾	窾 窴
+pwif	窏 窪	窪 窏
+pws	䆑 穼 罙	罙 穼 䆑
+pyb	祁 祂 礽	祁 礽 祂
+pyln	禗 禤	禤 禗
+pymk	禂 禍	禍 禂
+pyn	礼 冖 祤 祀	祀 祤 冖 礼
+pyqb	祪 祹	祹 祪
+pytf	祚 祍 祩	祚 祩 祍
+qaj	昏 錯	錯 昏
+qb	釨 鉺 卬 夘 邜 釕 夗 釶 釢 鈹	釕 鈹 鉺 釨 釢 釶 夘 夗 卬 邜
+qbl	盌 㽜 錳	錳 盌 㽜
+qbtb	皺 鄒	鄒 皺
+qde	銪 鍸 鋹	銪 鋹 鍸
+qdff	鍷 鎒	鎒 鍷
+qe	角 臽 鈅 釛 釤	角 釤 鈅 臽 釛
+qee	錋 䤾 觔	觔 錋 䤾
+qeqo	鵤 鵮	鵮 鵤
+qf	勻 釷 鉗 針 釬 㚈	針 勻 鉗 釷 釬 㚈
+qfc	鈘 鉣	鉣 鈘
+qfn	釫 鋕	鋕 釫
+qge	錆 錶	錶 錆
+qgf	㘶 釪	釪 㘶
+qgkl	匐 鍢	鍢 匐
+qh	外 䀏 鉬 䤠 亇 釙	外 鉬 亇 釙 䀏 䤠
+qhh	䀤 䤮 鉲	鉲 䀤 䤮
+qi	兆 淾 釥	兆 釥 淾
+qifc	鼗 鍅	鍅 鼗
+qihq	覙 覜	覜 覙
+qj	旬 鈤 釗 鉵	旬 釗 鈤 鉵
+qke	象 鋗 㲒 劬 䤢	象 劬 鋗 㲒 䤢
+qkh	鈡 鋜	鋜 鈡
+qkr	斪 鉂	鉂 斪
+ql	甸 鈿 鉀	鉀 甸 鈿
+qld	錮 銦	銦 錮
+qlge	鍡 鐶	鐶 鍡
+qln	錷 鍶	鍶 錷
+qm	鈾 島 負 鋇	島 負 鈾 鋇
+qn	包 鈻 釓 釔 釲 鈊	包 鈊 釔 釓 鈻 釲
+qo	炙 匊 灳 烏 鳥 魚 鈥 銤	鳥 魚 烏 炙 鈥 銤 匊 灳
+qoac	鍍 鱯 鸌	鍍 鸌 鱯
+qoak	鰙 鰸 䳼	鰸 鰙 䳼
+qoaw	鑛 鱑 鱴 䱋	鑛 鱴 鱑 䱋
+qob	䰵 鄔 鄥 鮍	鄔 鮍 鄥 䰵
+qoce	鯒 鯵 鰺	鰺 鯵 鯒
+qoct	鮻 鵔	鵔 鮻
+qod	鮕 鮖 䲦	鮖 鮕 䲦
+qode	鮪 鰖 鰗	鮪 鰗 鰖
+qodn	鮬 鯎 鱤	鱤 鮬 鯎
+qodw	鯕 鱖 鶀	鱖 鯕 鶀
+qoe	魹 鳨	鳨 魹
+qof	魽 鮇	鮇 魽
+qofj	鯺 鰭 鱬	鰭 鱬 鯺
+qogk	鯃 鱷	鱷 鯃
+qogx	魱 鱺	鱺 魱
+qoit	魦 鯋	鯋 魦
+qomk	鮦 鯛	鯛 鮦
+qon	鮙 魢 鳦 䰲	魢 鳦 鮙 䰲
+qopq	魫 鯇	鯇 魫
+qopx	鮀 鴕	鴕 鮀
+qoqo	鰞 鱻 鵴 鷠 䱡 䲆 䲜	鱻 鰞 鷠 鵴 䱡 䲆 䲜
+qos	䰳 䲷 鯆	䰳 鯆 䲷
+qosj	鯟 鯻 鱏 䱨	鯻 鯟 鱏 䱨
+qosk	魺 鴚	鴚 魺
+qoth	鰤 鶳	鶳 鰤
+qotj	鯏 鯯	鯯 鯏
+qotk	鮥 鯌 鯦 鱎 鱵 鴼	鮥 鱵 鱎 鯦 鯌 鴼
+qouf	鑆 鱂 鱒	鱒 鱂 鑆
+qoug	鏷 鰌 鱃	鏷 鱃 鰌
+qouv	鯜 鱶	鱶 鯜
+qovk	鎕 鮉 鮶	鎕 鮶 鮉
+qow	鳧 魜	魜 鳧
+qowd	鮲 鯸 䳧	鯸 鮲 䳧
+qowj	魪 鱠	鱠 魪
+qows	鮴 鮽 鰷 鵌	鰷 鮽 鮴 鵌
+qowy	鮘 鴏 鵻 䱦	鴏 鵻 鮘 䱦
+qoxj	鮄 鮨	鮨 鮄
+qoxx	鏕 魮 麁 䥝	魮 麁 鏕 䥝
+qoy	魴 䲱 魰	魴 魰 䲱
+qoyk	鯍 鰝	鰝 鯍
+qp	夤 錠	錠 夤
+qq	多 鍂 匇 釸	多 釸 匇 鍂
+qqk	鉤 銘	銘 鉤
+qqn	翗 鉋	鉋 翗
+qqy	鍧 釣	釣 鍧
+qs	釘 匍 梟 鈢 鋪	鋪 釘 梟 匍 鈢
+qsj	錬 鐔	鐔 錬
+qtan	狘 獦	獦 狘
+qtb	犯 卯 鉇 銹 狓	犯 卯 銹 狓 鉇
+qtbn	乮 犼	犼 乮
+qtd	狜 銛 犾 鉃	鉃 銛 犾 狜
+qtdt	獉 獶 獿	獶 獿 獉
+qtdw	獗 狹 猉	狹 獗 猉
+qtf	鈓 犴 釺 銖	釺 銖 犴 鈓
+qtfj	猪 獳	獳 猪
+qtfk	狤 鋯	鋯 狤
+qtfm	獖 鑽	鑽 獖
+qtfq	獟 銑	銑 獟
+qtg	狂 夝 鉎 鈝 鉄	狂 鉄 鉎 夝 鈝
+qtgo	鑂 鵟	鵟 鑂
+qthc	玃 鍛	鍛 玃
+qtit	猀 獙	獙 猀
+qtm	㹨 狽	狽 㹨
+qtmk	匔 狪 猧 銄	銄 猧 狪 匔
+qtmt	銵 鎫 䥩	鎫 銵 䥩
+qtn	儿 勹 ⺈ 釳	儿 勹 釳 ⺈
+qtog	獛 獜	獜 獛
+qton	悐 鏭	鏭 悐
+qtqi	狣 鑗	鑗 狣
+qtrt	猣 獥	獥 猣
+qtv	狠 錗 犰	狠 犰 錗
+qtwk	猞 獊	獊 猞
+qtxe	狕 猭	猭 狕
+qtye	猏 獽	獽 猏
+qu	鉝 鍆 鋅	鋅 鍆 鉝
+quf	斘 鈄	鈄 斘
+qv	釹 釚 釖 勼 銀	銀 釹 勼 釖 釚
+qvk	鉊 銣	銣 鉊
+qvy	釰 釻 釼	釰 釼 釻
+qw	欠 鳬 勽 釠 釟	欠 釟 勽 釠 鳬
+qwga	錀 鑰	鑰 錀
+qwgk	匌 鉿	鉿 匌
+qwhe	鎀 鏅	鏅 鎀
+qwyn	鈐 錜 鐫	鈐 鐫 錜
+qxi	銯 錄	錄 銯
+qy	久 訇 䚻 勺 夊 鈁 鈫	久 勺 夊 鈁 訇 䚻 鈫
+qyn	釯 鈩 匄	匄 鈩 釯
+qyth	銂 鏇	鏇 銂
+ra	找 皂 扛	找 扛 皂
+ragg	撶 皣	皣 撶
+rb	扔 氖 挕 邱 邤 㧄 凶 扡 披	扔 邱 披 凶 氖 邤 扡 挕 㧄
+rc	反 把 皅 㿝 払	把 反 払 皅 㿝
+rdf	拜 拝 皋	拜 皋 拝
+rdfn	翱 挎	挎 翱
+re	抈 㧮 㧌 㿞 劤 劧 劰 扐 㔕	扐 劧 抈 劤 劰 㧮 㧌 㿞 㔕
+rf	扗 拑 扞 皁 抺	皁 扞 抺 拑 扗
+rfc	技 抎 抾	技 抾 抎
+rff	挂 持	持 挂
+rfwy	攉 皬	皬 攉
+rg	皇 抂 扶	皇 扶 抂
+rgfg	掗 氬	氬 掗
+rgva	挳 氫	氫 挳
+rhw	䖊 䖐 虒	虒 䖊 䖐
+rj	氜 抇 刈 刏 氘	刈 氜 氘 抇 刏
+rjf	捏 捚 捍 皔	捏 捍 捚 皔
+rlqj	擉 斶	斶 擉
+rn	扎 挧 䎅 忥 癿 㣻 抋	扎 癿 忥 挧 抋 䎅 㣻
+rnx	屔 抳	抳 屔
+roxo	攗 皫 㩠	皫 攗 㩠
+roxt	攈 攟	攟 攈
+rqcw	魌 魐 魕 䰧	魌 魕 魐 䰧
+rqcy	魃 魋 魎 䰮	魃 魎 魋 䰮
+rqtb	掏 搖 㧕	搖 掏 㧕
+rqy	的 揈 㨱 扚	的 扚 揈 㨱
+rr	折 拍 拞 㿟 抙 斦 気 㧉 爻	拍 折 爻 気 抙 拞 斦 㿟 㧉
+rrm	捳 質	質 捳
+rrn	乴 悊	悊 乴
+rrr	皛 掱	掱 皛
+rrxs	擽 皪	皪 擽
+rryt	撽 皦	皦 撽
+rs	打 氥 拪 捕	打 捕 氥 拪
+rsj	氭 㨂 撢	氭 撢 㨂
+rt	氕 乒 敀	乒 氕 敀
+rta	托 抍 扥	托 扥 抍
+rthf	拃 皥	皥 拃
+rtol	皤 播	播 皤
+ru	拉 捫 氧	拉 氧 捫
+rv	扏 㧅 拫	拫 扏 㧅
+rw	兵 㒵 扒	兵 扒 㒵
+rwv	氛 扮	扮 氛
+rwyc	擒 拎 皊 㩳 㨦	拎 擒 皊 㩳 㨦
+rwyn	捻 扲 擕	捻 擕 扲
+rx	皀 㧈 拇	拇 皀 㧈
+rxb	卽 皍	皍 卽
+rxj	指 拂 氟	指 氟 拂
+ry	斥 㧍 乓 抆	斥 乓 抆 㧍
+ryb	㨃 㧸 㿭	㿭 㨃 㧸
+sa	杢 杠	杠 杢
+saa	械 棧	棧 械
+sab	榵 桏	桏 榵
+saqj	槆 橬	橬 槆
+say	㭶 杙	杙 㭶
+sb	李 杍 栮 邒 郙 䢶 杝 㭁 柀	李 杍 栮 柀 郙 杝 邒 䢶 㭁
+scns	楙 楺 㮊	楺 楙 㮊
+sd	枯 柘 㭅 䙲 杕 枤	枯 柘 杕 㭅 䙲 枤
+sde	栯 楜 棖	棖 栯 楜
+sdff	楏 槈 櫉	槈 楏 櫉
+se	杉 桕 枂 枆 朸	杉 枂 桕 朸 枆
+seg	査 柤	柤 査
+sf	垔 杜 柑 杆 尃 村 㭑	村 杜 杆 柑 尃 垔 㭑
+sfa	枿 桟	桟 枿
+sfie	勡 彯 㲡	彯 勡 㲡
+sfij	剽 飄	飄 剽
+sfjf	榸 檊	檊 榸
+sfkk	橲 櫺	櫺 橲
+sg	本 酉 枉 枎	本 枉 酉 枎
+sgf	酣 酐 杅 酎	酣 酐 酎 杅
+sgjg	桓 醒	醒 桓
+sgn	配 翉 朽	配 朽 翉
+sgoo	醈 醾	醾 醈
+sgpf	酧 醡	醡 酧
+sgs	酊 枺 酺	酊 酺 枺
+sgtk	酪 酷	酷 酪
+sgwc	酘 醱	醱 酘
+sh	相 杫 朴	相 朴 杫
+shw	椃 椇	椇 椃
+sj	覃 東 杳	東 覃 杳
+sjf	梩 桿	桿 梩
+sjg	查 柦 棩	查 棩 柦
+ske	梋 勅 柺	柺 勅 梋
+sl	柬 盙 㭗 柶 柙	柬 柙 柶 盙 㭗
+sld	棝 栶	栶 棝
+slge	椳 檈 㮯	檈 椳 㮯
+sm	柚 杣 賈 朿 梖	賈 柚 朿 梖 杣
+smf	枏 柟	柟 枏
+smsm	棘 棗	棗 棘
+sn	札 乶 朰 㐉 栩 㭒 杞 杺	札 杞 栩 杺 乶 朰 㐉 㭒
+sp	廼 迺 逋	逋 廼 迺
+sr	析 柏 杽	柏 析 杽
+srrf	欎 欝	欝 欎
+sryt	檄 覈	覈 檄
+ss	林 朾 栗 㭪	林 栗 朾 㭪
+ssf	埜 㮒 榑	榑 埜 㮒
+ssfi	禁 標 㮏	標 禁 㮏
+ssm	栜 檟	檟 栜
+sso	焚 㷊 樮 㯨	焚 樮 㷊 㯨
+ssp	䢞 椘	椘 䢞
+ssv	婪 㭝 楆	婪 楆 㭝
+st	枚 䅇 柇	枚 柇 䅇
+stdk	椥 橋	橋 椥
+stg	栍 栙 㭌 柣	柣 栙 栍 㭌
+stgo	橅 櫄	櫄 橅
+stj	楿 梸	梸 楿
+stn	桘 杚	杚 桘
+stp	覂 柉	柉 覂
+su	柆 椚 梓	梓 椚 柆
+suf	梉 枓	枓 梉
+sug	橍 柈	柈 橍
+sugi	様 樣	樣 様
+swd	覄 栿	栿 覄
+swgb	椧 楡	楡 椧
+swgw	検 檢 櫈	檢 検 櫈
+swwf	桽 麵 㙬 㭫 䴽 䵁	麵 桽 㙬 㭫 䴽 䵁
+swwg	櫼 麩 麰	麩 麰 櫼
+swwn	愸 憖 憗 麧 麪 麫 麭	麪 憖 麭 憗 麧 愸 麫
+swy	椎 㮅 杋	椎 杋 㮅
+swyc	柃 檎 欆	檎 柃 欆
+swyk	梒 槍	槍 梒
+swyn	枔 棯 檇	棯 檇 枔
+sx	朼 杛 栂 㭃	栂 朼 杛 㭃
+sy	术 旉 枋	枋 旉 术
+syn	杧 怸	怸 杧
+ta	乗 笁 升 䇝 乇	升 乇 乗 笁 䇝
+tab	筇 穁 笻	筇 笻 穁
+taj	徣 稓 剰	剰 徣 稓
+tal	䅦 筪	筪 䅦
+tb	秀 季 竾 㐌 䇯 秄 䄦 彵 䄬 䄧 彼 秛	秀 季 彼 彵 竾 秄 秛 㐌 䇯 䄦 䄬 䄧
+tcce	穇 篸	篸 穇
+td	舌 䇢 秙 䄷 夭 矢 㣕	舌 矢 夭 秙 䇢 䄷 㣕
+tdqo	鴁 鴙 鴰	鴰 鴙 鴁
+tdtd	矨 舙	舙 矨
+te	䄴 甪 秏 竻 㣊	竻 秏 甪 䄴 㣊
+teb	筟 稃	稃 筟
+tee	稻 䈱 稝 筋	筋 稻 稝 䈱
+teg	租 笡 徂	租 徂 笡
+tegw	穥 籅	籅 穥
+tf	壬 ⺧ 竺 玍 䇞 朱 午 竿 千	朱 千 午 竿 壬 竺 玍 ⺧ 䇞
+tfb	邾 缶	缶 邾
+tff	等 筀 徍 䅅 待 秲	等 待 徍 筀 秲 䅅
+tffq	徺 穘	穘 徺
+tfh	徝 稙 徒	徒 徝 稙
+tg	年 生 彺 失 夅 䄵 牛 䄮	年 生 牛 失 彺 夅 䄵 䄮
+tga	䄯 笄 筭	笄 筭 䄯
+tgle	甥 勳	勳 甥
+tglo	熏 無 鷡	無 熏 鷡
+tgm	簀 積 㣱	積 簀 㣱
+tgmx	穲 籭	籭 穲
+tgvh	徢 箑	箑 徢
+thle	齈 齉	齉 齈
+thlg	齄 齇 䶊	齇 齄 䶊
+thlj	劓 鼻 䶐	鼻 劓 䶐
+thpp	邉 邊	邊 邉
+tib	笵 筂 箥	笵 箥 筂
+tj	利 香 䖝	香 利 䖝
+tjn	䈳 悡	悡 䈳
+tkg	程 䇸 徎	程 徎 䇸
+tkn	䎊 惒 㤩	惒 䎊 㤩
+tl	血 甶 盉 笽 笚	血 盉 笚 甶 笽
+tlaw	篾 穓 衊	衊 篾 穓
+tlb	範 衈 卹 䘏	範 卹 衈 䘏
+tld	箇 䉐 稒 筃 秵	箇 筃 秵 稒 䉐
+tm	笛 秞 㣙 秈 屲 㟀 筫	笛 秈 秞 筫 㣙 屲 㟀
+tmd	䇦 秧	秧 䇦
+tmde	躼 軂	軂 躼
+tmdk	躺 躳 躸 軀	躺 軀 躳 躸
+tmdn	躵 軈 䠸	軈 躵 䠸
+tmdv	躮 躴 躷 躽 軁	軁 躽 躴 躷 躮
+tmgt	徽 徵 微 徴 鰴 黴 㣲	微 徵 黴 徽 徴 鰴 㣲
+tn	乞 戶 䄫	戶 乞 䄫
+tnig	徲 穉	穉 徲
+tnj	刉 蛗	蛗 刉
+to	秋 釆 夈	秋 夈 釆
+toj	稥 蝵	蝵 稥
+ton	悉 愁	愁 悉
+tps	䇡 筞	筞 䇡
+tqj	徇 筍	筍 徇
+trg	徨 篁 䅣	篁 徨 䅣
+trr	䇽 笅	笅 䇽
+ts	䇴 徆 䄽 㣔 秿	徆 秿 䇴 䄽 㣔
+tsfi	徱 篻 䅺	篻 徱 䅺
+ttd	笑 筈 秳 笶 秗	笑 笶 筈 秳 秗
+ttdk	穚 簥	簥 穚
+ttf	䄭 秊 秊 䇬 秼	秊 䄭 秊 䇬 秼
+ttfm	穳 籫	籫 穳
+ttg	秩 𠂉 笙 徃 䇨	笙 秩 徃 𠂉 䇨
+ttgs	筕 衘 衝	衝 筕 衘
+tthf	笮 秨 簰	笮 簰 秨
+ttj	䅨 筣	筣 䅨
+ttnt	秭 笫	笫 秭
+tu	冬 乊 笠 徉 舟	冬 舟 笠 徉 乊
+tued	徿 籠 䆍	籠 徿 䆍
+tujf	徸 穜 艃	穜 徸 艃
+tuqo	鵃 鷑 䳉	鷑 鵃 䳉
+tutg	簅 舽 䒉	舽 簅 䒉
+tuv	䈉 舠	舠 䈉
+tuwc	般 舩 舲 艭 䑾	般 舲 舩 艭 䑾
+tuws	槃 艅 䑮	艅 槃 䑮
+tv	委 很 秉	很 委 秉
+tvg	律 筆	筆 律
+tw	秂 凢 処	秂 処 凢
+twc	役 䇗 彸	役 彸 䇗
+twtf	秹 筰 䄹 䇮	筰 秹 䄹 䇮
+twyc	彾 秢 笭 篗 䉶	笭 彾 篗 秢 䉶
+twyk	筨 篬 䅮	篬 筨 䅮
+twys	穕 衑	衑 穕
+txe	篆 䶰 勄	篆 勄 䶰
+txj	彿 䄶 笰	彿 笰 䄶
+txt	敏 後	後 敏
+txx	秕 笓	笓 秕
+txxr	稭 籪	籪 稭
+ty	入 䇾 彷 䄱	入 彷 䇾 䄱
+tyey	籝 籯	籯 籝
+tyj	㒲 䈞 穧	穧 㒲 䈞
+tyke	穰 忀 簑 䉴	穰 簑 忀 䉴
+tymk	篙 稿	稿 篙
+tyn	笀 㐈 㣗 兦	笀 兦 㐈 㣗
+tyuy	徬 篣 䅭	篣 徬 䅭
+tyw	笐 秔	秔 笐
+tywf	稡 箤	箤 稡
+ua	疘 差 冮 竎 戕 䇅	差 戕 疘 竎 冮 䇅
+uakg	瘽 閾	閾 瘽
+uan	㤣 疶	疶 㤣
+ub	聞 疓 疲 兯	聞 疲 疓 兯
+uc	羓 疤	疤 羓
+uco	闖 㾺 馮	馮 闖 㾺
+ucwt	羧 竣 痠	痠 羧 竣
+ud	閆 㽽 䦒 㓈 䇉 狀	狀 閆 㽽 䦒 㓈 䇉
+ude	痏 㾰 痮	痏 痮 㾰
+udjn	痷 閹	閹 痷
+ue	閒 閰 竓 㲔 劷 羏 豙 㒸 閐	閒 閰 羏 豙 劷 竓 㲔 㒸 閐
+uegd	礱 龍 龑 龖 龘	龍 礱 龑 龘 龖
+uf	斗 疳 㽵 䦌 壯 竍 疛 閈	壯 斗 疳 閈 竍 疛 㽵 䦌
+ufc	㽻 㾀 攱	攱 㽻 㾀
+uff	閨 㾏 痔 䦙	痔 閨 㾏 䦙
+ufhw	瘨 闐	闐 瘨
+ufn	痣 乧 㪲 疞	痣 乧 疞 㪲
+ufo	䦝 焋	焋 䦝
+uftj	瘏 闍	闍 瘏
+ug	半 閂 閏 ⺷ 龹	半 閏 閂 ⺷ 龹
+uge	靖 凊 劵	靖 劵 凊
+ugo	羔 羙	羙 羔
+ugqo	鮝 鯗	鯗 鮝
+ugty	羲 義	義 羲
+ugv	券 姜	姜 券
+ugva	痙 羥	羥 痙
+ugx	弮 冱	冱 弮
+ugyv	飬 養	養 飬
+uh	着 㾇 丫 䇂	着 丫 㾇 䇂
+uj	間 音 痋 閩 章	間 章 音 閩 痋
+ujf	㾖 童	童 㾖
+uke	㾓 勏 袞	袞 勏 㾓
+ukkf	癉 闡	闡 癉
+ukq	兑 兗	兗 兑
+ulff	凙 癦 䦴	癦 凙 䦴
+ulge	癏 闤 㾯	闤 癏 㾯
+um	㾄 閴 疝 閊	疝 閊 閴 㾄
+umgu	凒 闓	闓 凒
+un	翔 翊 悶 乵 䇃 羌 㽶	悶 翔 翊 羌 乵 䇃 㽶
+unku	癖 闢	闢 癖
+uo	並 焛 疢	並 疢 焛
+uq	㾣 䦦 凎	凎 㾣 䦦
+uqaj	痻 閽	閽 痻
+uqfd	奬 獎	獎 奬
+uqo	鮺 鴗 鴹	鴹 鮺 鴗
+uqv	净 竫	竫 净
+uqvh	净 竫 䦛 䍵	竫 净 䦛 䍵
+us	閪 㓅 痡 閑 疔 閅 牀	牀 閑 閅 疔 痡 閪 㓅
+usg	㾞 酋	酋 㾞
+usj	䦨 凍 䍶	凍 䦨 䍶
+usk	辣 閜 竦 凁 牁	辣 竦 牁 閜 凁
+uss	痳 䦥 凓	凓 痳 䦥
+uthf	痄 導	導 痄
+utmt	癓 癥 竧	癥 癓 竧
+uu	閚 闁 竝 牂 辡 痒 㾕	牂 竝 闁 閚 辡 痒 㾕
+uubw	瘚 闕	闕 瘚
+uuj	瘖 癎 闇 暜 瘴	闇 瘴 癎 瘖 暜
+uv	妾 妝 痕 䦘	妝 痕 妾 䦘
+uvjw	歉 兼	兼 歉
+uw	閃 竌 閄	閃 閄 竌
+uwc	疫 竐 羖	疫 羖 竐
+uwgj	瘉 癐 羭	癐 羭 瘉
+uwgk	冾 閤 㾑	閤 冾 㾑
+uwtj	瘋 闏 颯	瘋 颯 闏
+uwv	竕 羒	羒 竕
+uwyc	羚 冷 竛 閝 㕠 㾉	冷 羚 閝 竛 㕠 㾉
+uwyk	凔 牄 瘡	瘡 凔 牄
+uxxo	闗 鶿 鷀	鶿 闗 鷀
+uy	誾 閍 閔	閔 誾 閍
+uynw	痎 閡	閡 痎
+uyu	辬 辯	辯 辬
+vakg	嫤 嫨	嫨 嫤
+vb	好 她 㜽 㛅 即 邚 奶	好 她 即 奶 邚 㜽 㛅
+vc	妑 厹 奴	奴 妑 厹
+vdff	娾 媷 㛻	媷 娾 㛻
+vdh	妦 妚	妚 妦
+vf	妹 姏 奸 卆	妹 奸 卆 姏
+vfj	書 妌 肅	書 肅 妌
+vhw	婋 虓	虓 婋
+vjh	媢 妽	妽 媢
+vkn	恕 㐒 䎄 巶	恕 巶 㐒 䎄
+vle	媦 娚	娚 媦
+vmd	㛧 姎	姎 㛧
+vn	㐇 㚶 妃 㣽	妃 㐇 㚶 㣽
+vo	㚧 災	災 㚧
+vp	退 辺 巡 廵	退 巡 辺 廵
+vqk	姁 姳	姳 姁
+vqo	䲥 婅 鳩 鳭 鵖	鳩 婅 鵖 鳭 䲥
+vr	㚱 妡	妡 㚱
+vs	㛉 奵	奵 㛉
+vtf	妊 奷 姝	姝 妊 奷
+vtku	群 羣	羣 群
+vtx	䶯 娒	娒 䶯
+vuj	㛺 嫜	嫜 㛺
+vv	㚣 奻	奻 㚣
+vwga	婨 媕	媕 婨
+vwgj	媮 嬒	嬒 媮
+vwyc	姈 孇	孇 姈
+vy	妨 訄 娮 刃 丸 刄 妏	丸 刃 妨 妏 刄 娮 訄
+wa	仝 仜 伐	伐 仝 仜
+waa	㑘 俴	俴 㑘
+wakg	傼 僅	僅 傼
+waym	岱 貸	貸 岱
+wb	他 仍 仔 佴 䢳 佊	他 仍 仔 佴 佊 䢳
+wbn	㑙 怹	怹 㑙
+wd	估 仨 佦 伏 㐲	伏 估 仨 佦 㐲
+wdh	仹 伓	伓 仹
+we	佣 䏌 仴 㐱 仂	仂 佣 仴 䏌 㐱
+wf	什 仁 仕 佄 仠 仐 癷 付 佅	付 仁 什 仕 佄 仐 仠 佅 癷
+wfc	凨 伎 伝 佉	伎 伝 佉 凨
+wfk	舍 舎 佶	舍 佶 舎
+wg	全 亼 伍 仼 伕	全 伕 伍 亼 仼
+wgeq	儬 覦	覦 儬
+wgkb	命 郃 鄧 㿯	命 鄧 郃 㿯
+wgkj	剣 劍 㓣 㔁	劍 剣 㓣 㔁
+wgkl	盒 偪 畣 盫	盒 盫 畣 偪
+wgku	登 侸 豋	登 豋 侸
+wgkw	凳 歙 僉 欱 歛 龡 㑒 㰸 䶳 䶵	凳 僉 歙 歛 欱 龡 㑒 㰸 䶳 䶵
+wgky	剱 劒 劔 㽂 㽅 䧻	劒 劔 剱 㽂 㽅 䧻
+wglj	劊 會	會 劊
+wgsm	峹 嵞	嵞 峹
+wh	凪 企 仩 仆	企 仆 仩 凪
+whto	倐 儵 焂 鯈	儵 倐 鯈 焂
+wi	氽 尒 仦 㲻	尒 氽 仦 㲻
+wl	佃 伵 俥	佃 俥 伵
+wlge	儇 偎	偎 儇
+wn	佀 㐶 亾 伈	亾 伈 佀 㐶
+wo	伙 㶡 侎	伙 侎 㶡
+wqy	㑾 仢	仢 㑾
+wr	父 㒶 伯 伒 㐿 㐹	父 伯 伒 㒶 㐿 㐹
+ws	休 価 仃 凩 朵 俌	休 朵 価 仃 俌 凩
+wt	八 作	作 八
+wta	㐼 仛	仛 㐼
+wtc	仫 俬	俬 仫
+wtdk	倁 僑	僑 倁
+wtf	任 仵 仟 侏	任 仟 仵 侏
+wtfm	儹 賃	賃 儹
+wtg	件 佭 佚	件 佚 佭
+wtgf	倂 偅	偅 倂
+wtj	俐 風	風 俐
+wtje	颩 颵 飂 䫽 䬀 䬅 䬑	颩 飂 颵 䫽 䬀 䬅 䬑
+wtjg	颫 颹 䬄 䬎 䬖 䬛	颹 颫 䬄 䬎 䬖 䬛
+wtjj	颲 颾 飍 䫻 䬆 䬓 䬔 䬕 䬟	颲 飍 颾 䫻 䬆 䬓 䬔 䬕 䬟
+wtjk	颭 颱 䫿 䬏 䬘	颱 颭 䫿 䬏 䬘
+wtjo	颷 飈 䬉 䬚	飈 颷 䬉 䬚
+wtjt	颬 飋 䫾 䬋	飋 颬 䫾 䬋
+wtl	侐 俻	俻 侐
+wton	僁 僽	僽 僁
+wu	位 們 佯 仒	們 位 佯 仒
+wua	傞 併	併 傞
+wv	分 㚢 仇 佷	分 仇 佷 㚢
+wvde	餦 餬 䭉	餬 餦 䭉
+wvf	坌 伜 飦	坌 飦 伜
+wvj	蚠 蝕	蝕 蚠
+wvk	佋 侞	侞 佋
+wvm	㑎 岔 貧	貧 岔 㑎
+wvtf	飪 飵 餠	飪 餠 飵
+wvtk	侰 餉 餎	餉 餎 侰
+wvty	飠 餓	餓 飠
+wvuk	餢 饍	饍 餢
+ww	从 仉 仌 仈	仌 仉 仈 从
+wwc	癹 伀 伇	伀 癹 伇
+wwcn	倊 傟	傟 倊
+wwgw	倹 儉	儉 倹
+wwwf	侳 傘	傘 侳
+wwyn	仱 儁 㑫	儁 仱 㑫
+wy	信 詧 隹 凡 仿 亽 伩	信 凡 仿 亽 隹 詧 伩
+wyc	令 隻	隻 令
+wywc	䨇 雙	雙 䨇
+wywy	讐 雔 雥 雦	讐 雦 雥 雔
+xahh	弫 弬 䋗	弬 弫 䋗
+xan	弡 䋌 紲 䋐	紲 弡 䋌 䋐
+xans	弽 緤	緤 弽
+xb	弛 弭 㝀 䋙 鄳 毑 䊶 紴 㢰	弛 弭 毑 紴 鄳 㝀 䋙 䊶 㢰
+xde	絠 張	張 絠
+xe	幼 䋃 糼 絼 彖	幼 彖 糼 絼 䋃
+xeb	孧 綒	綒 孧
+xee	弸 綳 縚	弸 縚 綳
+xeqo	鴢 鶨	鶨 鴢
+xf	紺 㢨 紂	紺 紂 㢨
+xfn	㢪 䊸 綕	綕 㢪 䊸
+xg	㢧 弖 䊿	弖 㢧 䊿
+xgf	弙 紆	紆 弙
+xglg	彊 繮	繮 彊
+xgva	弳 經	經 弳
+xh	引 䊼 弔	引 弔 䊼
+xie	弰 綃	綃 弰
+xj	旨 㔬 弗	弗 旨 㔬
+xke	弲 絹	絹 弲
+xlge	彋 繯 䋿	繯 彋 䋿
+xm	紬 㢫 貫	貫 紬 㢫
+xn	䋚 幻 乣 糺 紀	紀 幻 乣 糺 䋚
+xoaw	彍 纊	纊 彍
+xp	綜 縮	縮 綜
+xr	絈 紤	紤 絈
+xsf	緸 㢾 縛	縛 緸 㢾
+xsg	絊 綇	綇 絊
+xtb	絁 㢮 綉	絁 綉 㢮
+xtf	紝 䊹 絑	紝 絑 䊹
+xtg	絳 䋅 紩	絳 紩 䋅
+xtyj	蠁 響	響 蠁
+xua	縒 絣	絣 縒
+xv	䊵 糿 㓜	糿 䊵 㓜
+xvfj	彇 繡	繡 彇
+xvk	弨 紹	紹 弨
+xvy	紈 紉	紉 紈
+xwf	弣 紨	紨 弣
+xwgj	緰 繪	繪 緰
+xxe	毞 緣	緣 毞
+xxi	絲 綠	綠 絲
+xy	紡 紋	紋 紡
+xyb	弴 綧	綧 弴
+xyj	緕 纃	纃 緕
+xyth	絒 縼	縼 絒
+yb	享 斈 斊 誀 邡 亨 㓙 訑 䚮 詖	享 亨 邡 誀 詖 斈 斊 訑 㓙 䚮
+yck	㐬 詒	詒 㐬
+yde	詴 彥 䛫	彥 詴 䛫
+ye	衣 彣 䚴 䚽 䚲 哀	衣 哀 彣 䚴 䚽 䚲
+yf	詌 計 訐 対 討	計 討 対 詌 訐
+yff	詿 詩	詩 詿
+yfs	誄 謀	謀 誄
+yh	卞 訨 訃	卞 訃 訨
+yhq	斍 誢	誢 斍
+yj	亯 齊 䚯 亣 蚉	齊 亣 蚉 亯 䚯
+yji	亰 齋	齋 亰
+yjj	誯 劑 螡	劑 螡 誯
+yk	吝 訓	訓 吝
+ylke	勯 氈	氈 勯
+ym	䛆 訕	訕 䛆
+yn	㐎 㐔 詡 記 忞 悥 亡 訫	記 亡 詡 訫 忞 悥 㐎 㐔
+ynd	戾 䛯 戻	戾 戻 䛯
+ynn	忘 扇 戺 戹 誋	忘 扇 誋 戺 戹
+yns	㦿 杗	杗 㦿
+yntl	衁 謐	謐 衁
+yntm	賌 頦	頦 賌
+yo	亦 㪰 詸	亦 詸 㪰
+yop	迹 謎	謎 迹
+ypta	亳 詫	詫 亳
+yqge	裦 褎 褏 襃	褏 襃 裦 褎
+yqgs	椉 謋	謋 椉
+yqk	訽 詺	詺 訽
+yqo	鴍 諊 鳼 鴋	鴋 鴍 諊 鳼
+ysj	諌 譚	譚 諌
+yta	䛂 託	託 䛂
+ytb	施 斿 誘 旇	施 誘 斿 旇
+ytf	䚾 許 誅	許 誅 䚾
+ytol	旙 譒	譒 旙
+yv	良 訅 詪	良 詪 訅
+ywc	訟 設	設 訟
+ywe	劥 診	診 劥
+ywyc	詅 謢 﨎	謢 詅 﨎
+ywyn	訡 諗	諗 訡
+yxxj	曫 蠻	蠻 曫
+yxxr	攣 諧	諧 攣
+yxxw	臠 譏 㱍	譏 臠 㱍
+yxyx	玆 誸	誸 玆
+yy	誩 訪	訪 誩
+yyg	亠 註	註 亠
+yygg	吂 訁	訁 吂
+yyna	斒 諞	諞 斒
+yyuj	旘 識	識 旘
+yyv	斏 誏	誏 斏
